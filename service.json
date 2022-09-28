@@ -1,7 +1,7 @@
 [
     {
       "name": "priyaFragateContainer",
-      "image": "mcr.microsoft.com/windows/servercore/iis",
+      "image": "254011110770.dkr.ecr.us-west-2.amazonaws.com/sasiprivatebgrepoecr:latest",
       "cpu": 10,
       "memory": 512,
       "networkMode" : "awsvpc",
