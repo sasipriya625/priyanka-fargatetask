@@ -8,7 +8,7 @@ variable "subnet_cidrs_private" {
   type = list
 }
 variable "availability_zones" {
-  default = ["us-west-2a", "us-west-2b"]
+  default = ["us-east-1a", "us-east-1b"]
 }
 data "aws_iam_role" "iam" {
   name = "AWSServiceRoleForECS"
