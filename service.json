@@ -1,7 +1,7 @@
 [
     {
       "name": "priyaFragateContainer",
-      "image": "254011110770.dkr.ecr.us-west-2.amazonaws.com/sasiprivatebgrepoecr:latest",
+      "image": "254011110770.dkr.ecr.us-east-1.amazonaws.com/priyanka:latest",
       "cpu": 10,
       "memory": 512,
       "networkMode" : "awsvpc",
